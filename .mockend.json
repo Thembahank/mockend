@@ -1,0 +1,102 @@
+{
+  "esof_building_bag_id": "",
+  "estate_transaction_type": "te huur",
+  "esof_slug": "horeca/zoutmanstraat-8-den-haag/68589",
+  "geo_city": "Den Haag ",
+  "is_published": "2021-06-01T13:39:42",
+  "esof_units_offered_jointly": true,
+  "esof_date_changed": "2021-06-01T13:39:42",
+  "esof_address": "Zoutmanstraat 8",
+  "esof_rent_contract_type": "Onderhuur",
+  "esof_service_cost": 45,
+  "esof_price": "",
+  "esof_description": "someother",
+   "primary_useplan": {
+    "name": "bedrijfsruimte"
+  },
+  "admin_details": {
+    "object_id": "string",
+    "status": "none",
+    "transaction_type": 1,
+    "date_last_change": "2021-06-07"
+  },
+  "location_details": {
+    "street_address": "Zoutmanstraat ",
+    "house_number": "8",
+    "city_name": "Den Haag",
+    "postalcode": "1013MX",
+    "province": 10,
+    "floor": "string",
+    "longitude": 5.1,
+    "latitude": 4.8,
+    "hide_address": true,
+    "location_description": "string",
+    "city": "'s-Graveland"
+  },
+  "estate_offer_units": [
+      {
+        "unit_primary_useplan": {
+          "name": "horeca"
+        },
+      "unit_useplans": [
+        {
+          "name": "horeca"
+        }
+      ],
+      "esof_unit_photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1534237710431-e2fc698436d0?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=934&q=80"
+        },{"url": "https://images.unsplash.com/photo-1467803738586-46b7eb7b16a1?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2378&q=80"}
+      ],
+      "unit_horecatype": [
+        {
+          "horeca_type": "Wegrestaurant"
+        }
+      ],
+      "unit_facilities": [
+        {
+          "facility_name": "airco"
+        }
+      ],
+      "unit_secondary_use": [
+        {
+          "name": "Bar"
+        }
+      ],
+      "unit_service_cost": 23,
+      "unit_object_feed_id": "2312311",
+      "unit_purchase_price": "",
+      "unit_rent_price": 323,
+      "unit_floor": "Begane grond",
+      "unit_rent_price_type": "m²/jaar",
+      "unit_name": "1",
+      "unit_date_available": "overleg",
+      "unit_renting_period": "",
+      "unit_description": "Description Example",
+      "unit_floor_area": 107,
+      "unit_floor_area_designated_for_sales": 32,
+      "unit_floor_area_min": 107,
+      "unit_status": "",
+      "unit_energy_label": "",
+      "unit_acceptance_type": "",
+      "unit_service_cost_type": "m²/jaar",
+      "unit_num_of_parking_spaces": "",
+      "unit_cost_of_parking_space": "",
+      "unit_heating": "",
+      "unit_airco": "",
+      "unit_topkoeling": "",
+      "unit_offered_since": "",
+      "unit_condition": "Gemeubileerd"
+    }
+  ],
+  "estate_offer_photos": [
+    {
+      "url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1488750059241-ed3ad4563245?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=934&q=80"
+    }
+  ],
+  "esof_rent_parkingspaces_cost": "",
+  "esof_parkingspaces": ""
+}
